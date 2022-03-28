@@ -1,0 +1,14 @@
+Enter your Twitter API keys here, in the following order:
+1. API key
+2. Secret API key
+3. Access token
+4. Secret access token
+
+You will find them at:
+https://developer.twitter.com/en/portal/projects-and-apps
+-> Your project
+-> Keys and tokens
+
+There is no need to separate them by empty lines.
+
+***DELETE ALL OTHER TEXT FROM THIS FILE AFTER HAVING ADDDED YOUR KEYS***
