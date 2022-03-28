@@ -37,7 +37,7 @@ containing the number of excess characters.
 
 ******************************************************************************
 
-V*0.1.
+V*0.2.
 Under construction: a GUI remote tweeter
 
 *C Lauri Paronen
