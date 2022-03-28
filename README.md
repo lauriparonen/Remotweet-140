@@ -1,5 +1,4 @@
 # RemoTweet-140
-A simple Python bot for tweeting without needing to open the Twitter client.
 
 This program enables its user to tweet without needing to use the Twitter client.
 The tweets published through this program are also limited to 140 characters, like all tweets used to be.
