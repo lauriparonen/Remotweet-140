@@ -1,0 +1,5 @@
+Write your tweet here.
+
+The program will show you the character count before publishing, and in the case of too many characters, the number of extra characters.
+
+***REMOVE EVERYTHING ELSE FROM THIS TEXT FILE OTHER THAN THE CONTENT OF THE TWEET YOU WISH TO PUBLISH***
